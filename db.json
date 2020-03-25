@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "post": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "payment-status": "Success",
+      "payment-code": "843"
     }
   ]
 }
